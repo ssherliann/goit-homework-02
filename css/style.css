@@ -51,6 +51,10 @@ a:focus {
     color: #2e2f42;
 }
 
+.header-link-first {
+    color:#2e2f42;
+}
+
 .header-address {
     font-style: normal;
 }
