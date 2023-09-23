@@ -36,7 +36,8 @@ a:focus {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5
+    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .logo-part {
@@ -65,6 +66,11 @@ a:focus {
     background: #2E2F42;
     flex-shrink: 0;
 }
+
+.features {
+    color: #2e2f42;
+}
+
 .section-hero-title {
     color: #FFFFFF;
     text-align: center;
@@ -115,6 +121,11 @@ a:focus {
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.section-team-list {
+    background-color: #FFFFFF;
 }
 
 .section-team-members {
@@ -122,6 +133,7 @@ a:focus {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .section-team-description {
@@ -140,7 +152,6 @@ a:focus {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-
 }
 .section-portfolio-item {
     font-weight: 500;
@@ -168,6 +179,7 @@ a:focus {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-family: "Raleway", sans-serif
 }
 
 .footer-description {
